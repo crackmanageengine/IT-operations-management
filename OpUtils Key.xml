@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="OPUTILS Demo" EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-02-15" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7T9dJRdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdnd3XANbydJ7Ge1b9nP77yyxZKRKyzSJAKdSyubbdGcQ7Kdla" LicenseType="Registered" Name="OPUTILS Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine OpManager" Type="OPUTILS" Version="12"/>
+      <Component Name="Topo">
+         <Properties Name="NumberOfDevices" Value="500000"/>
+         <Properties Name="DeviceClassName" Value="com.adventnet.me.opmanager.topodb.OpManagerObject"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="500000"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="NumberOfClients" Value="500000"/>
+         <Properties Name="NumberOfUsers" Value="500000"/>
+      </Component>
+      <Component Name="Agents">
+         <Properties Name="NumberOfAgents" Value="500000"/>
+      </Component>
+      <Component Name="VoIP">
+         <Properties Name="NumberOfMonitors" Value="500000"/>
+      </Component>
+      <Component Name="SLADashboard">
+         <Properties Name="Enable" Value="yes"/>
+      </Component>
+      <Component Name="VirtualDevicesMonitoring">
+         <Properties Name="NumberOfVirtualHosts" Value="500000"/>
+      </Component>
+      <Component Name="Rack3DView">
+         <Properties Name="NumberOfRacks" Value="500000"/>
+      </Component>
+      <Component Name="SocialITPlus">
+         <Properties Name="UserCount" Value="500000"/>
+      </Component>
+      <Component Name="UCS">
+         <Properties Name="NumberOfUCS" Value="500000"/>
+      </Component>
+      <Component Name="EventLogMonitoring"/>
+      <Component Name="MSExchangeMonitoring"/>
+      <Component Name="ActiveDirectoryMonitoring"/>
+      <Component Name="MSSQLMonitoring"/>
+      <Component Name="SMSNotification"/>
+      <Component Name="FailOver"/>
+      <Component Name="RootCauseAnalysis"/>
+      <Component Name="NA">
+         <Properties Name="NumberOfInterfaces" Value="500000"/>
+      </Component>
+      <Component Name="BILLING"/>
+      <Component Name="NBAR_CBQOSMONITORING"/>
+      <Component Name="CAPACITYPLANNING"/>
+      <Component Name="NBA"/>
+      <Component Name="NCM">
+         <Properties Name="NumberOfDevices" Value="500000"/>
+      </Component>
+      <Component Name="CStore"/>
+		 <Properties Name="NumberOfCStores" Value="unlimited"/>
+      <Component Name="Storage">
+         <Properties Name="NumberOfDisks" Value="500000"/>
+      </Component>
+	  <Component Name="SwitchPortMapper">
+         <Properties Name="NumberOfPorts" Value="500000"/>
+      </Component>
+      <Component Name="IPAddressManager">
+         <Properties Name="NumberOfIPs" Value="500000"/>
+      </Component>
+      <Component Name="LicenseModel">
+         <Properties Name="IsUsed" Value="true"/>
+      </Component>
+	  <Component Name="WLC">
+         <Properties Name="NumberOfAccessPoint" Value="500000"/>
+      </Component>
+	  <Component Name="AMS">
+		<Properties Name="Expiry" Value="2030-09-01"/>
+	</Component>
+	
+   </LicenseeDetails>
+   <LicenseKey>10UZ0U0V0WkR8H2goMA0000054N8jpssvYYAFORvQmKnPlavKR4GvswsjLvGjMvsNvY8l000005spjFORvQmKnRviXNXMssvRGGApj000005s4RjpFORvQmKnRvHHXM4RjpCY48vo000005sys8dFORvQmKnviXRj4oGv48m8LNKsvRj4oPFORvQmKnvRj4oP000005svY83vdFORvQmKnMPnAbnDnjnnAlpctjPApAPDnjrOtjnOMoOBbP7rAbnDnjlljb000005svYXFRv4NjFORvQmKnAns8skLXNAvsKXP4jjrRv3OL8XfNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3g000005oPwFORvQmKnoPw0000054NKjPRvswsKLptjLX8Yjo000005syYXrFORvQmKnvv8edVyYXr000005s4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8esvkvLQXNgGRXjQCsXdAlo000005sRj48NjMFORvQmKnpjje000005s4NviAFORvQmKns4NviA000005sRvswFORvQmKn000005s4Nv8LPFORvQmKnsRvsw000005s4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo4YvJQORviXNXMHOIQGjHj4IRviXNXmHjIvmI4vN4Nv3GXImjYvmXnssXLPvY83vd000005svY83vdFORvQmKnjHjtMgOoljtwpOW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
