@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="OpManager Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-03-15" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TGdJRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybKZJcGVQTSzdpbp91b9nP77y1xZfpG7xbTpf1Q39PK9dN7TSzlp" LicenseType="Registered" Name="OpManager Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine OpManager" Type="Enterprise" Version="12"/>
+      <Component Name="Elements">
+         <Properties Name="NumberOfElements" Value="1000"/>
+      </Component>
+      <Component Name="Topo">
+         <Properties Name="NumberOfDevices" Value="0"/>
+         <Properties Name="DeviceClassName" Value="com.adventnet.me.opmanager.topodb.OpManagerObject"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="unlimited"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="NumberOfClients" Value="unlimited"/>
+         <Properties Name="NumberOfUsers" Value="unlimited"/>
+      </Component>
+      <Component Name="Agents">
+         <Properties Name="NumberOfAgents" Value="unlimited"/>
+      </Component>
+      <Component Name="VoIP">
+         <Properties Name="NumberOfMonitors" Value="50"/>
+      </Component>
+      <Component Name="SLADashboard">
+         <Properties Name="Enable" Value="yes"/>
+      </Component>
+      <Component Name="VirtualDevicesMonitoring">
+         <Properties Name="NumberOfVirtualHosts" Value="unlimited"/>
+      </Component>
+      <Component Name="Rack3DView">
+         <Properties Name="NumberOfRacks" Value="unlimited"/>
+      </Component>
+      <Component Name="SocialITPlus">
+         <Properties Name="UserCount" Value="unlimited"/>
+      </Component>
+      <Component Name="UCS">
+         <Properties Name="NumberOfUCS" Value="unlimited"/>
+      </Component>
+      <Component Name="WirelessMonitoring">
+         <Properties Name="NumberOfAccessPoints" Value="0"/>
+      </Component>
+      <Component Name="EventLogMonitoring"/>
+      <Component Name="MSExchangeMonitoring"/>
+      <Component Name="ActiveDirectoryMonitoring"/>
+      <Component Name="MSSQLMonitoring"/>
+      <Component Name="SMSNotification"/>
+      <Component Name="FailOver"/>
+      <Component Name="RootCauseAnalysis"/>
+      <Component Name="NA">
+         <Properties Name="NumberOfInterfaces" Value="1000"/>
+      </Component>
+      <Component Name="BILLING"/>
+      <Component Name="NBAR_CBQOSMONITORING"/>
+      <Component Name="CAPACITYPLANNING"/>
+      <Component Name="NBA"/>
+      <Component Name="NCM">
+         <Properties Name="NumberOfDevices" Value="unlimited"/>
+      </Component>
+      <Component Name="CStore"/>
+		 <Properties Name="NumberOfCStores" Value="unlimited"/>
+      <Component Name="Storage">
+         <Properties Name="NumberOfDisks" Value="unlimited"/>
+      </Component>
+      <Component Name="FWA">
+         <Properties Name="NumberOfFirewalls" Value="unlimited"/>
+      </Component>
+      <Component Name="SwitchPortMapper">
+         <Properties Name="NumberOfPorts" Value="unlimited"/>
+      </Component>
+      <Component Name="IPAddressManager">
+         <Properties Name="NumberOfIPs" Value="unlimited"/>
+      </Component>
+      <Component Name="WLC">
+         <Properties Name="NumberOfAccessPoint" Value="unlimited"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>Gv48m8LNK4N8jpssvYYAFORvQmKnPlaGv48m8LNKspjFORvQmKnRviXNXMssvRGGApjGv48m8LNKs4RjpFORvQmKnRvHHXM4RjpCY48voGv48m8LNKsLLXvvR8fFORvQmKnAafGv48m8LNKsys8dFORvQmKnviXRj4oGv48m8LNKsvRj4oPFORvQmKnvRj4oPGv48m8LNKsvY83vdFORvQmKnMPnAbnDnjnnAlpctjPApAPDnjrOtjnOMoOBbP7rAbnDnjlljb0001svYXFRv4NjFORvQmKnAns8skLXNAvsKXP4jjrRv3OL8XfNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3g0s4N8jpssvYYAFORvQmKniN8Rj48NjMssvLvR8aGv48m8LNKoPwFORvQmKnoPwGv48m8LNK4NKjPRvswsKLptjLX8YjoGv48m8LNKsyYXrFORvQmKnvv8edVyYXrGv48m8LNKs4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8esvkvLQXNgGRXjQCsXdAlo05sRj48NjMFORvQmKnpjjeGv48m8LNKs4NviAFORvQmKns4NviAGv48m8LNKsRvswFORvQmKnGv48m8LNKs4Nv8LPFORvQmKnsRvswGv48m8LNKs4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo4YvJQORviXNXMHOIQGjHj4IRviXNXmHjIvmI4vN4Nv3GXImjYvmXnssXLPvY83vd0svY83vdFORvQmKnjHjt0001s4NvmvLgFORvQmKns4NvmvLgMgOvs8RHRv4NgW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
